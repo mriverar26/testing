@@ -1,2 +1,2 @@
 # testing
-Repositorio de pruebas
+Repositorio de pruebas para revisar capacidades del ecosistema GitHub
